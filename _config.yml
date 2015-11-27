@@ -1,7 +1,7 @@
 name: LeCrone Art
 favicon: null
-layout_spectrum: 0.32381560769863427
-typography_spectrum: 0.797194984043017
+layout_spectrum: 1
+typography_spectrum: 0.4769
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.44689023215323687
+    - '#131c1b'
+    - '#34546d'
+    - '#965431'
+    - '#dbe8de'
+    - '#d09338'
+  brandStrength: 0.4375
   lightness: 0.46820956584997475
   saturation: 0.09662273293361068
   rhythmicContrast: 0.6673050078097731
